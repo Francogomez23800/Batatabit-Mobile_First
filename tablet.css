@@ -1,0 +1,11 @@
+.plans-container--slider {
+    justify-content: center;
+}
+
+.table-container--slider {
+    display: flex;
+    width: 930px;
+    justify-content: center;
+    margin: 0 auto;
+}
+
